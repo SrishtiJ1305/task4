@@ -1,18 +1,18 @@
-Introduction
+# Introduction
 This is my work from the Google Code-in task Use the simple Cranlogs API to obtain half-yearly R package downloads summaries in 2018.
 Below you can see the code with comments.
 
-Prerequisites
+# Prerequisites
 R
 RStudio
 jsonlite
 curl
 
 
-Code Description
+# Code Description
 The code below can be copied to R and executed as is.
 
-# task4
+#task4
 
 ```
 #Use the simple Cranlogs API to obtain half-yearly R package downloads summaries in 2018
