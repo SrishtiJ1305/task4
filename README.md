@@ -4,8 +4,11 @@ Below you can see the code with comments.
 
 # Prerequisites
 -R
+
 -RStudio
+
 -jsonlite
+
 -curl
 
 
