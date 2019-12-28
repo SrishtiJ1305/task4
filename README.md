@@ -3,13 +3,10 @@ This is my work from the Google Code-in task Use the simple Cranlogs API to obta
 Below you can see the code with comments.
 
 # Prerequisites
--R
-
--RStudio
-
--jsonlite
-
--curl
+- R
+- RStudio
+- jsonlite
+- curl
 
 
 # Code Description
@@ -30,7 +27,7 @@ write.csv(stat, "C:\\Users\\srish\\Desktop\\stat.csv")
 
 ```
 # Authors 
--Srishti jain
+- Srishti jain
 
 # Screen recording
 
