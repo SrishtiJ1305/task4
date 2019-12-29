@@ -31,4 +31,4 @@ write.csv(stat, "C:\\Users\\srish\\Desktop\\stat.csv")
 ![](http://g.recordit.co/cmSlmVxzqO.gif)
 
 # Authors 
-- Srishti jain
+- Srishti Jain
